@@ -205,6 +205,10 @@ textarea {
 .frm button:hover {
   color: black;
 }
+
+.bos {
+  height: 9vh;
+}
 /*! footer**/
 footer {
   height: 10vh;
