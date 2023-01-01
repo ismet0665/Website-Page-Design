@@ -33,6 +33,9 @@ ul {
 ul a {
   color: black;
 }
+ul a:hover {
+  color: peru;
+}
 
 /*! ****section*********/
 .section__image {
